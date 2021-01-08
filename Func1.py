@@ -4,4 +4,7 @@ def fac(a):
         p=p*i
     return p
 
+def sum(a):
+    return a*(a+1)/2
+
 # add nothing
