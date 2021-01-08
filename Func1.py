@@ -4,4 +4,4 @@ def fac(a):
         p=p*i
     return p
 
-print(fac(5))
+# add nothing
